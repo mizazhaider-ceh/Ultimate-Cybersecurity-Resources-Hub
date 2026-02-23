@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🛡️%20Ultimate%20Cybersecurity%20Resources%20Hub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Most%20Comprehensive%20Cybersecurity%20Learning%20Repository%20on%20GitHub&descSize=16&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🛡️+Ultimate+Cybersecurity+Resources+Hub;350%2B+Curated+Resources+for+Every+Level;Learn+%7C+Practice+%7C+Dominate+%7C+Defend;From+Zero+to+Elite+%E2%80%94+No+Paywalls+🔓" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%F0%9F%9B%A1%EF%B8%8F+Ultimate+Cybersecurity+Resources+Hub;350%2B+Curated+Resources+for+Every+Level;Learn+%7C+Practice+%7C+Dominate+%7C+Defend;From+Zero+to+Elite+%E2%80%94+No+Paywalls" alt="Typing SVG" />
 
 <br>
 
-[![GitHub stars](https://img.shields.io/github/stars/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub?style=for-the-badge&logo=github&color=yellow)](https://github.com/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub?style=for-the-badge&logo=github&color=blue)](https://github.com/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub?style=for-the-badge&logo=github&color=red)](https://github.com/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub/issues)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
+<a href="https://github.com/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub/stargazers"><img src="https://img.shields.io/github/stars/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars"/></a>
+<a href="https://github.com/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub/network/members"><img src="https://img.shields.io/github/forks/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub?style=for-the-badge&logo=github&color=blue" alt="GitHub forks"/></a>
+<a href="https://github.com/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub/issues"><img src="https://img.shields.io/github/issues/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub?style=for-the-badge&logo=github&color=red" alt="GitHub issues"/></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative" alt="License"/></a>
 
 <br>
 
@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/Level-Beginner%20to%20Elite-red?style=for-the-badge&logo=target&logoColor=white" />
 <img src="https://img.shields.io/badge/Maintained-2026-yellow?style=for-the-badge&logo=clockify&logoColor=white" />
 <img src="https://img.shields.io/badge/PRs-Welcome-orange?style=for-the-badge&logo=git&logoColor=white" />
-[![Made with Love](https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge)](https://www.mizazhaider-ceh.dev/)
-[![Powered By](https://img.shields.io/badge/Powered%20By-The%20PenTrix-blueviolet?style=for-the-badge&logo=hackaday)](https://www.thepentrix.tech/)
+<a href="https://www.mizazhaider-ceh.dev/"><img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge" alt="Made with Love"/></a>
+<a href="https://www.thepentrix.tech/"><img src="https://img.shields.io/badge/Powered%20By-The%20PenTrix-blueviolet?style=for-the-badge&logo=hackaday" alt="Powered By The PenTrix"/></a>
 
 <br>
 
