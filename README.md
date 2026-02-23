@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🛡️%20Ultimate%20Cybersecurity%20Resources%20Hub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Most%20Comprehensive%20Cybersecurity%20Learning%20Repository%20on%20GitHub&descSize=16&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🛡️%20300+%20Ultimate%20Cybersecurity%20Resources%20Hub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Most%20Comprehensive%20Cybersecurity%20Learning%20Repository%20on%20GitHub&descSize=16&descAlignY=55" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%F0%9F%9B%A1%EF%B8%8F+Ultimate+Cybersecurity+Resources+Hub;350%2B+Curated+Resources+for+Every+Level;Learn+%7C+Practice+%7C+Dominate+%7C+Defend;From+Zero+to+Elite+%E2%80%94+No+Paywalls" alt="Typing SVG" />
 
