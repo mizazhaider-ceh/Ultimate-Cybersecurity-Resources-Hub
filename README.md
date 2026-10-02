@@ -49,7 +49,7 @@ This repository is built for **students, aspiring professionals, and practitione
 |---------|-------------|
 | 🚀 **350+ Resources** | One of the largest curated cybersecurity resource hubs on GitHub |
 | 🏷️ **30+ Categories** | Every resource organized into clear, logical sections |
-| 🔗 **All Links Live** | Every resource is clickable and verified |
+| 🔗 **All Links Live** | Every resource is clickable and verified — last full link audit: October 2026 |
 | 🎓 **All Skill Levels** | From absolute beginner to advanced red teamer / blue teamer |
 | 🆓 **Mostly Free** | Prioritizes open-access, free-tier, and community resources |
 | 🔄 **Regularly Updated** | New resources added frequently — maintained for 2026 |
@@ -107,21 +107,21 @@ This repository is the resource I wish I had when I started. It's for:
 
 | # | Category | # | Category |
 |:---:|----------|:---:|----------|
-| 01 | [🗺️ Learning Roadmaps](#️-learning-roadmaps) | 16 | [🕵️ OSINT Resources](#️-osint-resources) |
-| 02 | [🎓 Online Learning Platforms](#-online-learning-platforms) | 17 | [☁️ Cloud Security](#️-cloud-security) |
+| 01 | [🗺️ Learning Roadmaps](#-learning-roadmaps) | 16 | [🕵️ OSINT Resources](#-osint-resources) |
+| 02 | [🎓 Online Learning Platforms](#-online-learning-platforms) | 17 | [☁️ Cloud Security](#-cloud-security) |
 | 03 | [🏆 CTF & Practice Platforms](#-ctf--practice-platforms) | 18 | [🔴 Red Team & Offensive Security](#-red-team--offensive-security) |
 | 04 | [🔬 Virtual Labs & Sandboxes](#-virtual-labs--sandboxes) | 19 | [🔵 Blue Team & Defensive Security](#-blue-team--defensive-security) |
 | 05 | [📚 Books & Free PDFs](#-books--free-pdfs) | 20 | [🔐 Cryptography & Steganography](#-cryptography--steganography) |
 | 06 | [🎥 YouTube Channels](#-youtube-channels) | 21 | [🌐 Web Application Security](#-web-application-security) |
-| 07 | [🎙️ Podcasts](#️-podcasts) | 22 | [📱 Mobile Security](#-mobile-security) |
-| 08 | [📰 Blogs & News Sites](#-blogs--news-sites) | 23 | [🏗️ DevSecOps Resources](#️-devsecops-resources) |
+| 07 | [🎙️ Podcasts](#-podcasts) | 22 | [📱 Mobile Security](#-mobile-security) |
+| 08 | [📰 Blogs & News Sites](#-blogs--news-sites) | 23 | [🏗️ DevSecOps Resources](#-devsecops-resources) |
 | 09 | [📧 Newsletters & Threat Feeds](#-newsletters--threat-feeds) | 24 | [🤖 AI & ML in Cybersecurity](#-ai--ml-in-cybersecurity) |
-| 10 | [🏅 Certifications Roadmap](#-certifications-roadmap) | 25 | [🛠️ Essential Tools](#️-essential-tools) |
+| 10 | [🏅 Certifications Roadmap](#-certifications-roadmap) | 25 | [🛠️ Essential Tools](#-essential-tools) |
 | 11 | [💻 GitHub Repositories](#-github-repositories) | 26 | [📊 Cheat Sheets & References](#-cheat-sheets--references) |
 | 12 | [🧩 Vulnerable Apps (Practice)](#-vulnerable-apps-for-practice) | 27 | [🌍 Communities & Forums](#-communities--forums) |
 | 13 | [🔍 Threat Intelligence](#-threat-intelligence) | 28 | [🎓 Free Courses & Certifications](#-free-courses--certifications) |
 | 14 | [🐧 Linux & Bash Essentials](#-linux--bash-essentials) | 29 | [💻 Programming for Security](#-programming-for-security) |
-| 15 | [🔧 Distros & VMs for Practice](#-distros--vms-for-practice) | 30 | [🏛️ Frameworks & Compliance](#️-frameworks--compliance) |
+| 15 | [🔧 Distros & VMs for Practice](#-distros--vms-for-practice) | 30 | [🏛️ Frameworks & Compliance](#-frameworks--compliance) |
 
 </div>
 
@@ -189,7 +189,7 @@ This repository is the resource I wish I had when I started. It's for:
 | 36 | [Root Me](https://root-me.org) | 500+ challenges, multiple categories | 🟢 All |
 | 37 | [PentesterLab](https://pentesterlab.com) | Web app exploitation labs | 🟡 Intermediate |
 | 38 | [CyberDefenders](https://cyberdefenders.org) | Blue team CTF (forensics, SIEM, IR) | 🟢 All |
-| 39 | [DVWA (Damn Vulnerable Web App)](http://dvwa.co.uk) | Self-hosted vulnerable web app | 🟢 Beginner |
+| 39 | [DVWA (Damn Vulnerable Web App)](https://github.com/digininja/DVWA) | Self-hosted vulnerable web app | 🟢 Beginner |
 | 40 | [HackThisSite](https://hackthissite.org) | Web-based hacking missions | 🟢 Beginner |
 | 41 | [W3Challs](https://w3challs.com) | Various CTF categories | 🟡 Intermediate |
 | 42 | [RingZer0 Team CTF](https://ringzer0ctf.com) | Diverse CTF categories | 🟢 All |
@@ -272,7 +272,7 @@ This repository is the resource I wish I had when I started. It's for:
 |:---:|----------|------|
 | 83 | OWASP Testing Guide v4.2 | [owasp.org](https://owasp.org/www-project-web-security-testing-guide/) |
 | 84 | 🛡️ **Security Books by Muhammad Izaz Haider** | **[github.com/mizazhaider-ceh/Security-Books](https://github.com/mizazhaider-ceh/Security-Books)** |
-| 85 | CyberSecurity PDF Vault (GitHub) | [github.com/CyberAlbSecOP](https://github.com/CyberAlbSecOP/CyberSecurity_PDF_Vault) |
+| 85 | Bounty Books (GitHub) | [github.com/DG7-XRX/Bounty-Books](https://github.com/DG7-XRX/Bounty-Books) |
 | 86 | Free CyberSecurity eBooks (arceuzvx) | [github.com/arceuzvx](https://github.com/arceuzvx/Cybersecurity_resources) |
 | 87 | Free CyberSec Books Collection | [github.com/DoS0x99](https://github.com/DoS0x99/cyber-security-books) |
 | 88 | CS.EBook – Hacking Collection | [github.com/Zavitar97](https://github.com/Zavitar97/CS.EBook) |
@@ -306,7 +306,7 @@ This repository is the resource I wish I had when I started. It's for:
 | 107 | [DC CyberSec](https://youtube.com/@DCcybersec) | Security+ exam prep, concepts | 🟢 Beginner |
 | 108 | [Grant Collins (Cybersecurity)](https://youtube.com/@grantcollins) | Cloud security, AWS hacking | 🟡 Intermediate |
 | 109 | [VbScrub](https://youtube.com/@VbScrub) | Active Directory hacking | 🟡 Intermediate |
-| 110 | [S3cur3Th1sSh1t](https://youtube.com/@S3cur3Th1sSh1t) | Red teaming, AD exploitation | 🔴 Advanced |
+| 110 | [S3cur3Th1sSh1t (Blog)](https://s3cur3th1ssh1t.github.io/) | Red teaming, AD exploitation | 🔴 Advanced |
 
 ---
 
@@ -325,7 +325,7 @@ This repository is the resource I wish I had when I started. It's for:
 | 117 | [SANS Internet Stormcast](https://isc.sans.edu/podcast.html) | Various | Daily threat briefing |
 | 118 | [Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans) | Dave Bittner | Social engineering |
 | 119 | [The Social-Engineer Podcast](https://social-engineer.org/podcast/) | Chris Hadnagy | SE & phishing |
-| 120 | [Threat Vector](https://unit42.paloaltonetworks.com/category/podcast/) | Palo Alto Unit 42 | Threat intelligence |
+| 120 | [Threat Vector](https://www.paloaltonetworks.com/podcasts/threat-vector) | Palo Alto Unit 42 | Threat intelligence |
 | 121 | [Recorded Future Podcast](https://www.recordedfuture.com/resources/podcasts) | Various | Threat intel, APTs |
 | 122 | [Microsoft Threat Intel Podcast](https://open.spotify.com/show/3oc8D9mHe7JqjkqPh1lhJV) | Sherrod DeGrippo | APTs, ransomware |
 | 123 | [Cloud Security Podcast](https://cloudsecuritypodcast.tv) | Ashish Rajan | Cloud security topics |
@@ -426,7 +426,7 @@ This repository is the resource I wish I had when I started. It's for:
 | 173 | [SecLists](https://github.com/danielmiessler/SecLists) | Wordlists for fuzzing, brute force |
 | 174 | [HackTricks](https://github.com/carlospolop/hacktricks) | Attack techniques cheatbook |
 | 175 | [The Hacker Recipes](https://github.com/ShutdownRepo/The-Hacker-Recipes) | AD, web, network attack recipes |
-| 176 | [Red Team Notes](https://github.com/brianlucas/red-team-notes) | Red team ops notes |
+| 176 | [Red Teaming Tactics and Techniques](https://github.com/osea2010/redteaming-tactics-and-techniques) | Red team ops notes |
 | 177 | [PWNDBG](https://github.com/pwndbg/pwndbg) | GDB plugin for exploit dev |
 | 178 | [Impacket](https://github.com/fortra/impacket) | Python network protocol library |
 | 179 | [BloodHound](https://github.com/SpecterOps/BloodHound) | AD attack path mapping |
@@ -435,7 +435,7 @@ This repository is the resource I wish I had when I started. It's for:
 | 182 | [Osmedeus](https://github.com/j3ssie/osmedeus) | Automated recon framework |
 | 183 | [MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator) | Visualize ATT&CK techniques |
 | 184 | [ThreatHunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook) | Threat hunting hypotheses |
-| 185 | [PTES-Technical](https://github.com/pentest-standard/pentest-standard) | Pentest execution standard |
+| 185 | [PTES-Technical](http://www.pentest-standard.org/index.php/Main_Page) | Pentest execution standard |
 | 186 | [My CyberSecurity Store](https://github.com/Raunaksplanet/My-CyberSecurity-Store) | Curated notes on cloud, bug bounty, API |
 | 187 | 🛡️ [**Security Books (160+ PDFs)**](https://github.com/mizazhaider-ceh/Security-Books) | **Massive cybersecurity book collection** |
 
@@ -448,10 +448,10 @@ This repository is the resource I wish I had when I started. It's for:
 | # | App | Category | Type |
 |:---:|-----|----------|------|
 | 188 | [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) | Web (OWASP Top 10) | Docker |
-| 189 | [DVWA](http://dvwa.co.uk) | Web | Docker/PHP |
+| 189 | [DVWA](https://github.com/digininja/DVWA) | Web | Docker/PHP |
 | 190 | [WebGoat](https://github.com/WebGoat/WebGoat) | Java web security | Docker |
 | 191 | [Metasploitable 2 & 3](https://github.com/rapid7/metasploitable3) | Full system exploitation | VM |
-| 192 | [HackMe Bank](https://github.com/DoubleLabyrinth/hackme-bank) | Banking app security | Docker |
+| 192 | [VulnBank](https://github.com/Commando-X/vuln-bank) | Banking app security | Docker |
 | 193 | [VulnHub VMs](https://vulnhub.com) | Full system pentest | VM |
 | 194 | [FLAWS.cloud](http://flaws.cloud) | AWS cloud misconfig | Online |
 | 195 | [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) | AWS offensive scenarios | Terraform |
@@ -525,7 +525,7 @@ This repository is the resource I wish I had when I started. It's for:
 | 227 | [CloudGoat (Rhino Security)](https://github.com/RhinoSecurityLabs/cloudgoat) | Vulnerable AWS environment | ✅ Yes |
 | 228 | [FLAWS.cloud](http://flaws.cloud) | AWS security challenge level 1 | ✅ Yes |
 | 229 | [FLAWS2.cloud](http://flaws2.cloud) | AWS attacker + defender dual path | ✅ Yes |
-| 230 | [AWS Security Maturity Model](https://maturitymodel.security.aws.amazon.com) | AWS official security guide | ✅ Yes |
+| 230 | [AWS Security Maturity Model](https://maturitymodel.security.aws.dev/) | AWS official security guide | ✅ Yes |
 | 231 | [GCP Goat](https://github.com/JOSHUAJEBARAJ/GCP-Goat) | Vulnerable GCP environment | ✅ Yes |
 | 232 | [AzureGoat](https://github.com/ine-labs/AzureGoat) | Vulnerable Azure environment | ✅ Yes |
 | 233 | [HackTricks Cloud](https://cloud.hacktricks.xyz) | Cloud attack techniques | ✅ Yes |
@@ -633,7 +633,7 @@ This repository is the resource I wish I had when I started. It's for:
 | # | Resource | Description | Free? |
 |:---:|----------|-------------|:-----:|
 | 283 | [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/) | DevSecOps maturity model | ✅ Yes |
-| 284 | [DevSecOps Studio](https://github.com/teacheraio/DevSecOps-Studio) | Hands-on DevSecOps lab | ✅ Yes |
+| 284 | [DevSecOps Pipeline Lab](https://github.com/franciellirodrigues/lab-devsecops) | Hands-on DevSecOps lab | ✅ Yes |
 | 285 | [TechWorld with Nana (DevSecOps)](https://youtube.com/@TechWorldwithNana) | CI/CD + security YouTube | ✅ Yes |
 | 286 | [Snyk Learn](https://learn.snyk.io) | Secure coding practices | ✅ Yes |
 | 287 | [Semgrep Rules](https://semgrep.dev/r) | Static analysis security rules | ✅ Yes |
@@ -914,7 +914,7 @@ Contributions are welcome! If you have cybersecurity resources to add:
 ```bash
 # 1. Fork this repo
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/Ultimate-Cybersecurity-Resources-Hub.git
+git clone https://github.com/mizazhaider-ceh/Ultimate-Cybersecurity-Resources-Hub.git
 cd Ultimate-Cybersecurity-Resources-Hub
 
 # 3. Add your resource in the correct category in README.md
